@@ -14,7 +14,7 @@ An interactive web application built with Streamlit and powered by the Google Ge
 
 
 
-**(https://jagadish-985-ai-debate-arena-app-gu5okf.streamlit.app)]** 
+**([https://jagadish-985-ai-debate-arena-app-gu5okf.streamlit.app](https://jagadish-985-ai-debate-arena-app-gu5okf.streamlit.app/))]** 
 
 ##  Tech Stack
 
