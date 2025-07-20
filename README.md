@@ -1,4 +1,4 @@
-Here is a `README.md` file suitable for the GitHub repository of your AI Debate Simulator app.
+
 
 -----
 
@@ -12,7 +12,7 @@ An interactive web application built with Streamlit and powered by the Google Ge
 
 -----
 
-## 
+
 
 **(https://jagadish-985-ai-debate-arena-app-gu5okf.streamlit.app)]** 
 
