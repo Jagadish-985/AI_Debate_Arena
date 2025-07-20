@@ -16,13 +16,13 @@ An interactive web application built with Streamlit and powered by the Google Ge
 
 **(https://jagadish-985-ai-debate-arena-app-gu5okf.streamlit.app)]** 
 
- \#\# 🛠️ Tech Stack
+##  Tech Stack
 
   * **Frontend:** [Streamlit](https://streamlit.io/)
   * **Language:** Python
   * **LLM:** [Google Gemini API](https://ai.google.dev/)
 
-## ⚙️ Setup and Installation
+## ⚙ Setup and Installation
 
 Follow these steps to run the project locally.
 
